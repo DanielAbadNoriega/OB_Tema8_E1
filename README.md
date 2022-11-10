@@ -1,6 +1,6 @@
-# EJERCICIO TEMA 8
+  # EJERCICIO TEMA 8
 
-## Para practicar la encapsulación:
+## Para practicar la encapsulación: ##
 
 > 1. Crear clase Persona.
 >  
